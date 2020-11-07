@@ -1,4 +1,5 @@
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89382e38-b08f-449a-81f0-ea5f2da8f4f1/deploy-status)](https://app.netlify.com/sites/reverent-bardeen-506960/deploys)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
